@@ -26,7 +26,7 @@
 		ResultSet rs = null;
 		
 		try{
-		String jdbcDriver = "jdbc:mysql://localhost:3306/chap14?"+
+		String jdbcDriver = "jdbc:mysql://localhost:8080/test?"+
 							"useUnicode=true&characterEncoding=utf8";
 			String dbUser="jspexam";
 			String dbPass = "jsppw";
